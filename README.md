@@ -1,11 +1,12 @@
 # EWT-Seq2Seq-LSTM-Attention
-EWT-Seq2Seq-LSTM-Attention
 
-This repository presents a an Optimized EWT-Seq2Seq-LSTM with Attention Mechanism method.
+This repository presents a an Optimized EWT-Seq2Seq-LSTM with Attention Mechanism model.
 
 Two time-varying sequences are generated to evaluate a sequence-to-sequence learning (Seq2Seq) signal.
 
 To extract features from the signal, the empirical wavelet transform (EWT) is used.
+
+The hyperparameters of the model are optimized by Optuna and the attention mechanism is used.
 
 ---
 
