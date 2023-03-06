@@ -1,6 +1,6 @@
 # EWT-Seq2Seq-LSTM with Attention Mechanism
 
-This repository presents a an **Optimized EWT-Seq2Seq-LSTM with Attention Mechanism** model.
+This repository presents an **Optimized EWT-Seq2Seq-LSTM with Attention Mechanism** model.
 
 Two time-varying sequences are generated to evaluate a sequence-to-sequence learning (**Seq2Seq**) signal.
 
@@ -10,13 +10,13 @@ The hyperparameters of the model are optimized by **Optuna** and the **attention
 
 ---
 
-The proposed analysis is divided according to the models evaluated:
+The notebook for the analysis is divided according to the models evaluated:
 
-Seq2Seq-LSTM with Attention: Evaluation of the starting model using the Attention Mechanism.
+> Seq2Seq-LSTM with Attention: Evaluation of the starting model using the Attention Mechanism.
 
-Optimized Seq2Seq-LSTM with Attention: Evaluation of the model with the optimized hyperparameters (based on Optuna).
+> Optimized Seq2Seq-LSTM with Attention: Evaluation of the model with the optimized hyperparameters (based on Optuna).
 
-Standard Seq2Seq LSTM: Standard model for comparative purposes.
+> Standard Seq2Seq LSTM: Standard model for comparative purposes.
 
 ---
 
