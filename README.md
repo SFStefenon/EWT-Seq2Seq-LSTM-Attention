@@ -28,7 +28,6 @@ Wrote by Dr. Laio Oriel Seman and Dr. Stefano Frizzo Stefenon.
 
 Trento, Italy, March 03, 2023.
 
-{
   "cells": [
     {
       "cell_type": "markdown",
