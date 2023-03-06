@@ -11,7 +11,7 @@ The hyperparameters of the model are optimized by **Optuna** and the **attention
 ---
 
 The notebook for the analysis is divided according to the evaluations:
-
+'''
 > Seq2Seq-LSTM with Attention: _Evaluation of the starting model using the Attention Mechanism_.
 
 > Optimized Seq2Seq-LSTM with Attention: _Evaluation with the optimized hyperparameters (based on Optuna)_.
@@ -19,6 +19,8 @@ The notebook for the analysis is divided according to the evaluations:
 > Standard Seq2Seq LSTM: _Standard model for comparative purposes_.
 
 Please go ahead and try it on [Google Colab](https://colab.research.google.com/github/SFStefenon/EWT-Seq2Seq-LSTM-Attention/blob/main/EWT_Seq2Seq_LSTM_Attention.ipynb)!
+
+'''
 
 ---
 
