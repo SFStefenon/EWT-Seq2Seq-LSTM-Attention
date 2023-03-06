@@ -1,4 +1,4 @@
-# EWT-Seq2Seq-LSTM with Attention Mechanism
+# EWT-Seq2Seq-LSTM with Attention
 
 This repository presents an **Optimized EWT-Seq2Seq-LSTM with Attention Mechanism** model.
 
