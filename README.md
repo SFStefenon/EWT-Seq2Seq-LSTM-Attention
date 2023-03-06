@@ -20,7 +20,7 @@ The notebook for the analysis is divided according to the evaluations:
 
 ---
 
-The high-voltage experiment was carried out by Nemesio Fava Sopelsa Neto under the supervision of Dr. Luiz Henrique Meyer, in the High Voltage Laboratory of the Regional University of Blumenau (FURB), Brazil. Additions information can be found at: https://github.com/SFStefenon/LeakageCurrent
+The leakage current experiment was carried out by Nemesio Fava Sopelsa Neto under the supervision of Dr. Luiz Henrique Meyer, in the High Voltage Laboratory of the Regional University of Blumenau (FURB), Brazil. Additions information can be found at: https://github.com/SFStefenon/LeakageCurrent
 
 ---
 
