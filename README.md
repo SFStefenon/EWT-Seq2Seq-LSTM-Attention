@@ -28,4 +28,4 @@ Wrote by Dr. Laio Oriel Seman and Dr. Stefano Frizzo Stefenon.
 
 Trento, Italy, March 03, 2023.
 
-[Colab]([https://github.com/ultralytics/yolov5/](https://colab.research.google.com/github/SFStefenon/EWT-Seq2Seq-LSTM-Attention/blob/main/EWT_Seq2Seq_LSTM_Attention.ipynb))
+[Colab]([https://github.com/ultralytics/yolov5/](https://colab.research.google.com/github/SFStefenon/EWT-Seq2Seq-LSTM-Attention/blob/main/EWT_Seq2Seq_LSTM_Attention.ipynb]))
