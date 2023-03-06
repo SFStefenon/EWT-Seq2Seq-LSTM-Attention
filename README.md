@@ -14,7 +14,7 @@ The notebook for the analysis is divided according to the evaluations:
 
 > Seq2Seq-LSTM with Attention: _Evaluation of the starting model using the Attention Mechanism_.
 
-> Optimized Seq2Seq-LSTM with Attention: _Evaluation of the model with the optimized hyperparameters (based on Optuna)_.
+> Optimized Seq2Seq-LSTM with Attention: _Evaluation with the optimized hyperparameters (based on Optuna)_.
 
 > Standard Seq2Seq LSTM: _Standard model for comparative purposes_.
 
