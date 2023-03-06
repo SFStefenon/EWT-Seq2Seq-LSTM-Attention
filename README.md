@@ -10,13 +10,13 @@ The hyperparameters of the model are optimized by **Optuna** and the **attention
 
 ---
 
-The notebook for the analysis is divided according to the models evaluated:
+The notebook for the analysis is divided according to the evaluations:
 
-> Seq2Seq-LSTM with Attention: Evaluation of the starting model using the Attention Mechanism.
+> Seq2Seq-LSTM with Attention: _Evaluation of the starting model using the Attention Mechanism_.
 
-> Optimized Seq2Seq-LSTM with Attention: Evaluation of the model with the optimized hyperparameters (based on Optuna).
+> Optimized Seq2Seq-LSTM with Attention: _Evaluation of the model with the optimized hyperparameters (based on Optuna)_.
 
-> Standard Seq2Seq LSTM: Standard model for comparative purposes.
+> Standard Seq2Seq LSTM: _Standard model for comparative purposes_.
 
 ---
 
