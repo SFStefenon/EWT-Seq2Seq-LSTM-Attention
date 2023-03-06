@@ -23,5 +23,3 @@ The notebook for the analysis is divided according to the evaluations:
 Wrote by Dr. Laio Oriel Seman and Dr. Stefano Frizzo Stefenon.
 
 Trento, Italy, March 03, 2023.
-
-https://colab.research.google.com/drive/1ywzVZlQ2f2NsGClkMr_Lw2DFTi9iAUTW?usp=sharing
