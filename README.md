@@ -30,3 +30,5 @@ Trento, Italy, March 03, 2023.
 
 
 https://colab.research.google.com/github/SFStefenon/EWT-Seq2Seq-LSTM-Attention/blob/main/EWT_Seq2Seq_LSTM_Attention.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\
+  
+  [Ultralytics](https://github.com/ultralytics/yolov5/)
