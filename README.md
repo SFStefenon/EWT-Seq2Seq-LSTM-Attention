@@ -27,3 +27,21 @@ The leakage current experiment was carried out by Nemesio Fava Sopelsa Neto unde
 Wrote by Dr. Laio Oriel Seman and Dr. Stefano Frizzo Stefenon.
 
 Trento, Italy, March 03, 2023.
+
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/SFStefenon/EWT-Seq2Seq-LSTM-Attention/blob/main/EWT_Seq2Seq_LSTM_Attention.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "xbnF5ZAvxg27"
+      },
