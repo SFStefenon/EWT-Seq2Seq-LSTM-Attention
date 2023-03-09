@@ -20,7 +20,7 @@ The notebook for the analysis is divided according to the evaluations:
 
 Please go ahead and try it on [Google Colab](https://colab.research.google.com/github/SFStefenon/EWT-Seq2Seq-LSTM-Attention/blob/main/EWT-Seq2Seq-LSTM-Attention.ipynb)!
 
-![image](https://user-images.githubusercontent.com/88292916/224036141-e596f553-1328-4208-9825-e28ee35e96c1.png)
+![image](https://user-images.githubusercontent.com/88292916/224036229-a03efac2-7552-4a1b-a694-88be64eca084.png)
 
 ---
 
