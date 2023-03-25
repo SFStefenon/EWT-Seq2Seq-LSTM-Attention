@@ -22,9 +22,6 @@ Please go ahead and try it on [Google Colab](https://colab.research.google.com/g
 
 ---
 
-O modelo apresentado neste repositório foi avaliado usando o dataset de Dexter Lewis and Pratik Kulkarni, que pode ser encontrado em xxx.
-Enconrajamos você a realizar análises comparativas com seu dataset!
-
 The leakage current experiment was carried out by Nemesio Fava Sopelsa Neto under the supervision of Dr. Luiz Henrique Meyer, in the High Voltage Laboratory of the Regional University of Blumenau (FURB), Brazil. Additional information can be found at: https://github.com/SFStefenon/LeakageCurrent
 
 ---
