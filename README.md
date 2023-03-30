@@ -22,6 +22,13 @@ Please go ahead and try it on [Google Colab](https://colab.research.google.com/g
 
 ---
 
+Additional information can be found at the **[Original Paper](https://doi.org/10.3390/s23063202)**.
+
+BibTeX:
+`@Article{s23063202, AUTHOR = {Klaar, Anne Carolina Rodrigues and Stefenon, Stefano Frizzo and Seman, Laio Oriel and Mariani, Viviana Cocco and Coelho, Leandro dos Santos}, TITLE = {Optimized {EWT-Seq2Seq-LSTM} with attention mechanism to insulators fault prediction}, JOURNAL = {Sensors}, VOLUME = {23}, YEAR = {2023}, NUMBER = {6}, PAGES = {3202}, DOI = {10.3390/s23063202}}`
+
+---
+
 The leakage current experiment was carried out by Nemesio Fava Sopelsa Neto under the supervision of Dr. Luiz Henrique Meyer, in the High Voltage Laboratory of the Regional University of Blumenau (FURB), Brazil. Additional information can be found at: https://github.com/SFStefenon/LeakageCurrent
 
 ---
