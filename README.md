@@ -1,8 +1,8 @@
 # EWT-Seq2Seq-LSTM with Attention
 
-This repository presents an **optimized EWT-Seq2Seq-LSTM with attention mechanism** model.
+This repository presents an **optimized EWT-Seq2Seq-LSTM with attention mechanism** method.
 
-Two time-varying sequences are generated to evaluate a sequence-to-sequence learning (**Seq2Seq**) signal.
+Two time-varying sequences are considered to evaluate a sequence-to-sequence (**Seq2Seq**) signal.
 
 To extract features from the original signal, the empirical wavelet transform (**EWT**) is used.
 
