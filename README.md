@@ -32,6 +32,7 @@ BibTeX:
 The leakage current experiment was carried out by Nemesio Fava Sopelsa Neto under the supervision of Dr. Luiz Henrique Meyer, in the High Voltage Laboratory of the Regional University of Blumenau (FURB), Brazil. Additional information are available at: https://github.com/SFStefenon/LeakageCurrent.
 
 ---
+Thank you.
 
 Dr. **Stefano Frizzo Stefenon** and Dr. **Laio Oriel Seman**.
 
