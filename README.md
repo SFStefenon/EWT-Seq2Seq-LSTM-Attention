@@ -33,7 +33,7 @@ The leakage current experiment was carried out by Nemesio Fava Sopelsa Neto unde
 
 ---
 
-Wrote by Dr. **Stefano Frizzo Stefenon** and Dr. **Laio Oriel Seman**.
+Dr. **Stefano Frizzo Stefenon** and Dr. **Laio Oriel Seman**.
 
 Trento, Italy, March 10, 2023.
 
