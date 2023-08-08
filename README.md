@@ -24,7 +24,7 @@ Please go ahead and try it on [Google Colab](https://colab.research.google.com/g
 
 Additional information can be found at the **[Original Paper](https://doi.org/10.3390/s23063202)**.
 
-Klaar, A. C. R., Stefenon, S. F., Seman, L. O., Mariani, V. C., Coelho, L. S. Optimized EWT-Seq2Seq-LSTM with attention mechanism to insulators fault prediction, Sensors, vol. 23, number 6, p 3202, 2023.
+Klaar, A. C. R., Stefenon, S. F., Seman, L. O., Mariani, V. C., Coelho, L. S. Optimized EWT-Seq2Seq-LSTM with attention mechanism to insulators fault prediction, Sensors, vol. 23, num. 6, p. 3202, 2023.
 
 BibTeX:
 `@Article{s23063202, AUTHOR = {Klaar, Anne Carolina Rodrigues and Stefenon, Stefano Frizzo and Seman, Laio Oriel and Mariani, Viviana Cocco and Coelho, Leandro dos Santos}, TITLE = {Optimized {EWT-Seq2Seq-LSTM} with attention mechanism to insulators fault prediction}, JOURNAL = {Sensors}, VOLUME = {23}, YEAR = {2023}, NUMBER = {6}, PAGES = {3202}, DOI = {10.3390/s23063202}}`
